@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T04:16:58.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" version="15.6.5" etag="aPImb3lOk6tmMgP4Pok3" type="github"><diagram id="_Kc3pkgo95rJyX-yelRk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T06:40:59.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="c7RzyRkYPn2C_orveIpc" version="15.6.5" type="github">
+  <diagram id="_Kc3pkgo95rJyX-yelRk" name="Page-1">
+    <mxGraphModel dx="927" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-2" value="&lt;b id=&quot;docs-internal-guid-806c707c-7fff-9858-424d-00245d7efd16&quot; style=&quot;font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none; color: rgb(0, 0, 0); font-weight: normal;&quot;&gt;&lt;img width=&quot;791px;&quot; height=&quot;332px;&quot; src=&quot;https://lh6.googleusercontent.com/osy3S8344gbJe6vw5KcfxWAytdjEqOh-5On-M8XTxpVJCobTJUmWku3EWQYjZXrv71wAgQj7r7BjI9uGCi-UClP6MLguKQFSr_d5Khphu5Htk99Aol52v_rIa3TMKxhcy4dIew5Tb2k&quot;&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" width="540" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-3" target="z3FlJ25lIN9aCSK49CuA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-3" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-6" target="z3FlJ25lIN9aCSK49CuA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-6" value="Masuk ke web/app Mitra Platform Digital" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-8" target="z3FlJ25lIN9aCSK49CuA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-8" value="Penerima memilih pelatihan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-12" target="z3FlJ25lIN9aCSK49CuA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-12" value="Penerima &lt;i&gt;check out order&lt;/i&gt;&amp;nbsp;pelatihan yang dipilih" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-14" target="z3FlJ25lIN9aCSK49CuA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-14" value="Penerima &lt;i&gt;memiilih &lt;/i&gt;Kartu Prakerja sebagai metode pembayaran" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-16" target="z3FlJ25lIN9aCSK49CuA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-16" value="Penerima &lt;i&gt;input&lt;/i&gt;&amp;nbsp;nomor kartu Prakerja" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-18" target="z3FlJ25lIN9aCSK49CuA-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="840" />
+              <mxPoint x="690" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-18" value="Kode OTP dikirimkan ke no HP penerima" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="960" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="960" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-24" target="z3FlJ25lIN9aCSK49CuA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-24" value="Penerima input OTP" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-26" value="mengirimkan slang OTP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
