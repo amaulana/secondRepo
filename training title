@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T06:40:59.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="c7RzyRkYPn2C_orveIpc" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T09:34:39.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="dF7YBojEE5vuETc3a27Y" version="15.6.5" type="github">
   <diagram id="_Kc3pkgo95rJyX-yelRk" name="Page-1">
-    <mxGraphModel dx="927" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,14 @@
         </mxCell>
         <mxCell id="z3FlJ25lIN9aCSK49CuA-24" value="Penerima input OTP" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z3FlJ25lIN9aCSK49CuA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3FlJ25lIN9aCSK49CuA-26" target="z3FlJ25lIN9aCSK49CuA-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="840" />
+              <mxPoint x="750" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z3FlJ25lIN9aCSK49CuA-26" value="mengirimkan slang OTP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="810" width="120" height="60" as="geometry" />
